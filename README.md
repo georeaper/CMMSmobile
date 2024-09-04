@@ -13,7 +13,6 @@ It leverages modern Android development practices, including Clean Architecture 
 - **User Authentication:** Secure login and user management.
 - **Contract Management:** Create, update, and view contracts.
 - **Customer Management:** Manage customer information and view details.
-- **Inventory Tracking:** Track and manage equipment and inventory.
 - **Dashboard Views:** Comprehensive dashboards for quick insights and data access.
 - **Settings and Configuration:** Customize application settings and configurations.
 
